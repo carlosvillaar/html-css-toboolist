@@ -6,6 +6,7 @@
 
 body{
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: #F6F8FA;
 }
 
 .debug{
@@ -15,6 +16,7 @@ body{
 header{ 
   width: 100%;
   padding: 15px 15px;
+  background-color: white;
 }
 
 header h1{
@@ -25,4 +27,28 @@ font-size: 2.2rem;
 
 .logo{
   vertical-align: middle;
+}
+
+button{
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: transparent;
+  border: none;
+}
+
+button.task{
+  background-color: #48A9ED;
+  color: white;
+}
+
+button.section {
+  color: lightgray;
+  border: 1px solid lightgray;
+}
+
+.container{
+  background-color: white;;
+  width: 890px;
+  margin: 40px auto;
+  padding: 10px 50px;
 }
