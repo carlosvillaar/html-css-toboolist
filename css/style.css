@@ -52,3 +52,65 @@ button.section {
   margin: 40px auto;
   padding: 10px 50px;
 }
+
+.buttons{
+  margin-bottom: 30px;
+}
+
+.list{
+  padding: 20px 0;
+}
+
+.list ol li{
+  list-style-type: none;
+  padding-top: 25px;
+  font-size: 1.1rem;
+}
+
+.list .circle{
+  padding: 2px 5px;
+  border-radius: 50%;
+}
+
+.list .label{
+  padding: 5px 13px;
+  font-size: .8rem;
+  border-radius: 10px;
+  color: white;
+  margin-left: 10px;
+}
+
+.blue{
+  background-color: #46A9E8;
+}
+
+.purple{
+  background-color: #9E73E2;
+}
+
+.water{
+  background-color: #66C2AC;
+}
+
+.orange{
+  background-color: #FB9F2D;
+}
+
+.pink{
+  background-color: #D864A8;
+}
+
+.lime{
+  background-color: #ADC725;
+}
+
+.color-red{
+  border-color: red;
+  color: red;
+}
+
+.color-green{
+  border: 1px solid green;
+  border-color: green;
+  color: green;
+}
