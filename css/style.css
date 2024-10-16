@@ -51,6 +51,7 @@ button.section {
   width: 70%;
   margin: 40px auto;
   padding: 10px 50px;
+  border-radius: 10px;
 }
 
 .buttons{
